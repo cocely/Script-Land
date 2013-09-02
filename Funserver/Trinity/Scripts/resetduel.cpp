@@ -1,5 +1,5 @@
 #include "ScriptPCH.h"
-
+// Fixed by SymbolixDEV
 class Reset_OnDuelEnd : public PlayerScript
 {
     public:
